@@ -1,6 +1,6 @@
 # Phase1PointNshootMVP Instructions
 
-1. No change in python code. You can use the last functional code that you have running. Run the webserver.js and main.py. Please make suitable changes to websocket address and video ID etc in main.py. Run the appropriate webserver. 
+1. Run the webserver.js and main.py. Please make suitable changes to websocket address and video ID etc in main.py. Run the appropriate webserver. 
 2. Copy and paste the Receiver folder in a separate folder. Please note that the steps to run the browser files have changed because of modularization of code. Modularized code can't run by just opening the file in a browser, due to security reasons imposed by browsers.
 3. Go inside that folder in a terminal.
 4. Run $ python3 -m http.server
