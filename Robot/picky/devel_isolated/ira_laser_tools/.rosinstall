@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/picky/devel_isolated/ira_laser_tools/setup.sh

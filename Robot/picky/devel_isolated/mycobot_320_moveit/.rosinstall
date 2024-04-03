@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/picky/devel_isolated/mycobot_320_moveit/setup.sh

@@ -1,0 +1,2 @@
+sudo chmod 777 /dev/ttyTHS1
+sudo usermod -a -G dialout wsh

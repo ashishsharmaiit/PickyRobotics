@@ -1,0 +1,8 @@
+prefix=/home/jetson/picky/devel_isolated/ira_laser_tools
+
+Name: ira_laser_tools
+Description: Description of ira_laser_tools
+Version: 1.0.7
+Cflags: -I/home/jetson/picky/devel_isolated/ira_laser_tools/include
+Libs: -L${prefix}/lib 
+Requires: 

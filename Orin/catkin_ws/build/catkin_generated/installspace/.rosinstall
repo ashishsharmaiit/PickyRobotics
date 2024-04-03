@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/orin/Orin/catkin_ws/install/setup.sh

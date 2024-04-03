@@ -1,0 +1,8 @@
+prefix=/home/jetson/picky/devel_isolated/zm_robot_navigation
+
+Name: zm_robot_navigation
+Description: Description of zm_robot_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/jetson/picky/devel_isolated/robotis_controller_msgs
+
+Name: robotis_controller_msgs
+Description: Description of robotis_controller_msgs
+Version: 0.1.4
+Cflags: -I/home/jetson/picky/devel_isolated/robotis_controller_msgs/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs sensor_msgs message_runtime

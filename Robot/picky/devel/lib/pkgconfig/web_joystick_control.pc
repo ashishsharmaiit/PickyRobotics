@@ -1,0 +1,8 @@
+prefix=/home/jetson/Robot/picky/devel
+
+Name: web_joystick_control
+Description: Description of web_joystick_control
+Version: 0.0.0
+Cflags: -I/home/jetson/Robot/picky/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime

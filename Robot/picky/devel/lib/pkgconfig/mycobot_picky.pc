@@ -1,0 +1,8 @@
+prefix=/home/jetson/Robot/picky/devel
+
+Name: mycobot_picky
+Description: Description of mycobot_picky
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

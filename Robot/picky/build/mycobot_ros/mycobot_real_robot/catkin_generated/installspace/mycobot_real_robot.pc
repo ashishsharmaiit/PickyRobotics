@@ -1,0 +1,8 @@
+prefix=/home/jetson/Robot/picky/install
+
+Name: mycobot_real_robot
+Description: Description of mycobot_real_robot
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: controller_manager hardware_interface roscpp rospy std_msgs

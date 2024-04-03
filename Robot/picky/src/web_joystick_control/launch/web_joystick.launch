@@ -1,0 +1,5 @@
+<!-- %Tag(FULL)%-->
+<launch>
+  <node pkg="web_joystick_control" type="web_joystick.py" name="web_joystick_node"/> 
+</launch>
+<!-- %EndTag(FULL)%-->

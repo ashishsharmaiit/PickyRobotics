@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/picky/devel_isolated/mypalletizer_260_moveit/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/jetson/Robot/picky/install
+
+Name: learning_joy
+Description: Description of learning_joy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: joy roscpp turtlesim sensor_msgs std_msgs moveit_core moveit_ros_planning moveit_ros_planning_interface web_joystick_control

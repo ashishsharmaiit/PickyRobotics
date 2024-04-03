@@ -1,0 +1,7 @@
+<launch>
+    <node name="arm_joystick_joint_node" pkg="mycobot_picky" type="arm_joystick_joint.py" /> -->   
+</launch>
+
+
+
+

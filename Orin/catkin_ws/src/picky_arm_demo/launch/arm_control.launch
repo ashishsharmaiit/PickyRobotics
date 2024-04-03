@@ -1,0 +1,3 @@
+<launch>
+  <node name="arm_control" pkg="picky_arm_demo" type="arm_control" output="screen"/>
+</launch>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="mycobot_port" default="/dev/ttyTHS1"/>
+  <arg name="model" default="$(find mycobot_description)/urdf/mycobot.urdf.xacro"/>
+
+  <!-- send robot urdf to param server -->
+  <!-- <param name="robot_description" textfile="$(arg urdf_path)" /> -->
+  <param name="robot_description" command="$(find xacro)/xacro '$(arg model)'" />
+
+
+  <!-- myCobot -->
+  <node name="mycobot_control" pkg="mycobot_real_robot" type="mycobot_control" output="screen" respawn="false" />
+  <!-- HW Interface -->
+  <node name="hardware_interface" pkg="mycobot_real_robot" type="mycobot_hw_interface.py" output="screen">
+    <param name="mycobot_port" value="$(arg mycobot_port)"/>
+  </node>
+
+  <include file="$(find mycobot_control)/launch/ros_controllers.launch"/>
+
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/jetson/Robot/picky/install
+
+Name: picky_arm_demo
+Description: Description of picky_arm_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy moveit_core moveit_ros_planning_interface pcl_ros octomap_msgs

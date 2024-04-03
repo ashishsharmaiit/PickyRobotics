@@ -1,0 +1,3 @@
+<launch>
+  <node name="arm_motion_planning_collision_avoidance_realsense_moveit" pkg="picky_arm_demo" type="arm_motion_planning_collision_avoidance_realsense_moveit" output="screen"/>
+</launch>

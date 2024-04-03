@@ -1,0 +1,8 @@
+prefix=/home/jetson/Robot/picky/devel
+
+Name: robotis_framework_common
+Description: Description of robotis_framework_common
+Version: 0.2.9
+Cflags: -I/home/jetson/Robot/picky/src/ROBOTIS-Framework/robotis_framework_common/include
+Libs: -L${prefix}/lib -lrobotis_framework_common
+Requires: roscpp robotis_device

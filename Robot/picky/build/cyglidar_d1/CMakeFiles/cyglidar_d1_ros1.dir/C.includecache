@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jetson/Robot/picky/src/cyglidar_d1/sdk/include/cygparser.h
+stdint.h
+-
+
+/home/jetson/Robot/picky/src/cyglidar_d1/sdk/src/cygparser.c
+cygparser.h
+/home/jetson/Robot/picky/src/cyglidar_d1/sdk/src/cygparser.h
+
