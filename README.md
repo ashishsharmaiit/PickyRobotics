@@ -17,3 +17,8 @@ The three folders in the repository contains the respective code.
 This was almost an year-long side project. We also developed an earlier version of this prototype with completely grounds-up hardware. Here is the video of that first prototype in action:
 
 [![Picky Robotics First Prototype Demo](https://img.youtube.com/vi/TXZDenowrso/0.jpg)](https://www.youtube.com/watch?v=TXZDenowrso)
+
+Contributors:
+[Ashish Sharma](https://www.linkedin.com/in/ashishsharmaiitd/)
+[Anagh Deshpande](https://www.linkedin.com/in/anagh-deshpande/)
+[Amir Salimi Lafmejani](https://www.linkedin.com/in/amir-salimi-lafmejani/)
