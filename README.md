@@ -18,7 +18,11 @@ This was almost an year-long side project. We also developed an earlier version 
 
 [![Picky Robotics First Prototype Demo](https://img.youtube.com/vi/TXZDenowrso/0.jpg)](https://www.youtube.com/watch?v=TXZDenowrso)
 
-Contributors:
+
+**Contributors:**
+
 [Ashish Sharma](https://www.linkedin.com/in/ashishsharmaiitd/)
+
 [Anagh Deshpande](https://www.linkedin.com/in/anagh-deshpande/)
+
 [Amir Salimi Lafmejani](https://www.linkedin.com/in/amir-salimi-lafmejani/)
