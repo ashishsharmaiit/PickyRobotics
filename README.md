@@ -1,4 +1,4 @@
-# PickyRobotics
+# Picky Robotics
 
 Picky Robotics was a side project to partially automate and partially tele-operate a robotic arm mounted on top of an AGV (Automated Guided Vehicle) to restock products in retail store on the shelves, and pick up products for e-commerce orders. The final output of the project can be seen in this video:
 
